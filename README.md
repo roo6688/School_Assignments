@@ -1,4 +1,4 @@
-# School_Assignments
+# School_Assignments_Python
 Here you will find scripts i wrote for school assignments.
 
 ## Scripts
@@ -10,3 +10,6 @@ Here you will find scripts i wrote for school assignments.
    
 3. **Classes and Heritage** class
    In this folder, I uploaded some simple scripts I wrote when learning OOP.
+
+4. **Chained lists** chained_list
+   Creating chained lists. 
